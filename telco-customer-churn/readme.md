@@ -4,7 +4,7 @@
 
 This project builds a machine learning model to predict whether a telecommunications customer is likely to churn.
 
-The project follows a complete machine learning workflow, including data cleaning, exploratory data analysis, preprocessing, model comparison, cross-validation, hyperparameter tuning, and model evaluation.
+The project follows a complete machine learning workflow, including data cleaning, exploratory data analysis, preprocessing, model comparison, cross-validation, hyperparameter tuning, and model evaluation
 
 ## Problem Statement
 
